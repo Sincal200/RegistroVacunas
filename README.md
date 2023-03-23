@@ -9,4 +9,4 @@ En el vídeo olvide mostrar el mensaje cuando no se encuentra el CUI pero si est
 
 ---
 
-Diagrama de Clases:
+Diagrama de Clases: https://drive.google.com/file/d/1uYNxMh-bQK7VsRiNfb6QIzGuGOGZrF4h/view?usp=sharing
